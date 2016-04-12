@@ -1,0 +1,337 @@
+Determining if the include file malloc/malloc.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3702551068/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3702551068.dir/build.make CMakeFiles/cmTryCompileExec3702551068.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3702551068.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3702551068.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:27: fatal error: malloc/malloc.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec3702551068.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec3702551068.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec3702551068.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3702551068/fast' failed
+make: *** [cmTryCompileExec3702551068/fast] Error 2
+
+
+Determining if the include file ndir.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec217468561/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec217468561.dir/build.make CMakeFiles/cmTryCompileExec217468561.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec217468561.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec217468561.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:18: fatal error: ndir.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec217468561.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec217468561.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec217468561.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec217468561/fast' failed
+make: *** [cmTryCompileExec217468561/fast] Error 2
+
+
+Determining if the include file sys/ndir.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3466460013/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3466460013.dir/build.make CMakeFiles/cmTryCompileExec3466460013.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3466460013.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3466460013.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: sys/ndir.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec3466460013.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec3466460013.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec3466460013.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3466460013/fast' failed
+make: *** [cmTryCompileExec3466460013/fast] Error 2
+
+
+Determining if the include file valgrind/valgrind.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1917665222/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1917665222.dir/build.make CMakeFiles/cmTryCompileExec1917665222.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1917665222.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1917665222.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:31: fatal error: valgrind/valgrind.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec1917665222.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec1917665222.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec1917665222.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec1917665222/fast' failed
+make: *** [cmTryCompileExec1917665222/fast] Error 2
+
+
+Determining if the include file mach/mach.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2805782564/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2805782564.dir/build.make CMakeFiles/cmTryCompileExec2805782564.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2805782564.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2805782564.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:23: fatal error: mach/mach.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec2805782564.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec2805782564.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec2805782564.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec2805782564/fast' failed
+make: *** [cmTryCompileExec2805782564/fast] Error 2
+
+
+Determining if the include file mach-o/dyld.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2708773415/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2708773415.dir/build.make CMakeFiles/cmTryCompileExec2708773415.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2708773415.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2708773415.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:25: fatal error: mach-o/dyld.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec2708773415.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec2708773415.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec2708773415.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec2708773415/fast' failed
+make: *** [cmTryCompileExec2708773415/fast] Error 2
+
+
+Determining if the include file histedit.h exists failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2165001541/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2165001541.dir/build.make CMakeFiles/cmTryCompileExec2165001541.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2165001541.dir/CheckIncludeFile.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2165001541.dir/CheckIncludeFile.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckIncludeFile.c:1:22: fatal error: histedit.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec2165001541.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec2165001541.dir/CheckIncludeFile.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec2165001541.dir/CheckIncludeFile.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec2165001541/fast' failed
+make: *** [cmTryCompileExec2165001541/fast] Error 2
+
+
+Determining if the arc4random exist failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3931063823/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3931063823.dir/build.make CMakeFiles/cmTryCompileExec3931063823.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3931063823.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec3931063823.dir/CheckSymbolExists.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'arc4random' undeclared (first use in this function)
+   return ((int*)(&arc4random))[argc];
+                   ^
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTryCompileExec3931063823.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec3931063823.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec3931063823.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3931063823/fast' failed
+make: *** [cmTryCompileExec3931063823/fast] Error 2
+
+File /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <stdlib.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef arc4random
+  return ((int*)(&arc4random))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the mallctl exist failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1982186847/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1982186847.dir/build.make CMakeFiles/cmTryCompileExec1982186847.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1982186847.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1982186847.dir/CheckSymbolExists.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:23: fatal error: malloc_np.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec1982186847.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec1982186847.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec1982186847.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec1982186847/fast' failed
+make: *** [cmTryCompileExec1982186847/fast] Error 2
+
+File /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc_np.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef mallctl
+  return ((int*)(&mallctl))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the malloc_zone_statistics exist failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1571086884/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1571086884.dir/build.make CMakeFiles/cmTryCompileExec1571086884.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1571086884.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec1571086884.dir/CheckSymbolExists.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:2:27: fatal error: malloc/malloc.h: No such file or directory
+compilation terminated.
+CMakeFiles/cmTryCompileExec1571086884.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec1571086884.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec1571086884.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec1571086884/fast' failed
+make: *** [cmTryCompileExec1571086884/fast] Error 2
+
+File /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <malloc/malloc.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef malloc_zone_statistics
+  return ((int*)(&malloc_zone_statistics))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the strerror_s exist failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2386609594/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2386609594.dir/build.make CMakeFiles/cmTryCompileExec2386609594.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec2386609594.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -o CMakeFiles/cmTryCompileExec2386609594.dir/CheckSymbolExists.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c: In function 'main':
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: error: 'strerror_s' undeclared (first use in this function)
+   return ((int*)(&strerror_s))[argc];
+                   ^
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:8:19: note: each undeclared identifier is reported only once for each function it appears in
+CMakeFiles/cmTryCompileExec2386609594.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec2386609594.dir/CheckSymbolExists.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec2386609594.dir/CheckSymbolExists.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec2386609594/fast' failed
+make: *** [cmTryCompileExec2386609594/fast] Error 2
+
+File /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <string.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef strerror_s
+  return ((int*)(&strerror_s))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Performing C SOURCE FILE Test C_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec1784807680/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec1784807680.dir/build.make CMakeFiles/cmTryCompileExec1784807680.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec1784807680.dir/src.c.o
+/usr/bin/cc   -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTryCompileExec1784807680.dir/src.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/src.c
+cc: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTryCompileExec1784807680.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec1784807680.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec1784807680.dir/src.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec1784807680/fast' failed
+make: *** [cmTryCompileExec1784807680/fast] Error 2
+
+Source file was:
+int main(void) { return 0; }
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2564571260/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2564571260.dir/build.make CMakeFiles/cmTryCompileExec2564571260.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2564571260.dir/src.cxx.o
+/usr/bin/c++    -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -DCXX_SUPPORTS_COVERED_SWITCH_DEFAULT_FLAG   -Werror -Wcovered-switch-default -o CMakeFiles/cmTryCompileExec2564571260.dir/src.cxx.o -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wcovered-switch-default'
+CMakeFiles/cmTryCompileExec2564571260.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec2564571260.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec2564571260.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec2564571260/fast' failed
+make: *** [cmTryCompileExec2564571260/fast] Error 2
+
+Source file was:
+int main() { return 0; }
+Performing C SOURCE FILE Test C_WCOMMENT_ALLOWS_LINE_WRAP failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec3645178280/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec3645178280.dir/build.make CMakeFiles/cmTryCompileExec3645178280.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building C object CMakeFiles/cmTryCompileExec3645178280.dir/src.c.o
+/usr/bin/cc   -fPIC -Wall -W -Wno-unused-parameter -Wwrite-strings -Wno-missing-field-initializers -pedantic -Wno-long-long -DC_WCOMMENT_ALLOWS_LINE_WRAP  -Werror -Wcomment   -o CMakeFiles/cmTryCompileExec3645178280.dir/src.c.o   -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/src.c
+/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/src.c:1:1: error: multi-line comment [-Werror=comment]
+ // \
+ ^
+cc1: all warnings being treated as errors
+CMakeFiles/cmTryCompileExec3645178280.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec3645178280.dir/src.c.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec3645178280.dir/src.c.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec3645178280/fast' failed
+make: *** [cmTryCompileExec3645178280/fast] Error 2
+
+Source file was:
+// \
+//
+int main() {return 0;}
+Performing C++ SOURCE FILE Test CXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG failed with the following output:
+Change Dir: /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTryCompileExec2919635329/fast"
+/usr/bin/make -f CMakeFiles/cmTryCompileExec2919635329.dir/build.make CMakeFiles/cmTryCompileExec2919635329.dir/build
+make[1]: Entering directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+/usr/bin/cmake -E cmake_progress_report /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/CMakeFiles 1
+Building CXX object CMakeFiles/cmTryCompileExec2919635329.dir/src.cxx.o
+/usr/bin/c++    -fPIC -fvisibility-inlines-hidden -Wall -W -Wno-unused-parameter -Wwrite-strings -Wcast-qual -Wno-missing-field-initializers -pedantic -Wno-long-long -Wno-maybe-uninitialized -Wnon-virtual-dtor -Wno-comment -std=c++11 -ffunction-sections -fdata-sections -fno-common -Woverloaded-virtual -fno-strict-aliasing -DCXX_SUPPORTS_NO_NESTED_ANON_TYPES_FLAG   -Werror -Wnested-anon-types -o CMakeFiles/cmTryCompileExec2919635329.dir/src.cxx.o -c /root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp/src.cxx
+c++: error: unrecognized command line option '-Wnested-anon-types'
+CMakeFiles/cmTryCompileExec2919635329.dir/build.make:57: recipe for target 'CMakeFiles/cmTryCompileExec2919635329.dir/src.cxx.o' failed
+make[1]: *** [CMakeFiles/cmTryCompileExec2919635329.dir/src.cxx.o] Error 1
+make[1]: Leaving directory '/root/enpower/llvm/llvm_37/build_cmake/CMakeFiles/CMakeTmp'
+Makefile:117: recipe for target 'cmTryCompileExec2919635329/fast' failed
+make: *** [cmTryCompileExec2919635329/fast] Error 2
+
+Source file was:
+int main() { return 0; }

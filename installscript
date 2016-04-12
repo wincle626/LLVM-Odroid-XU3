@@ -1,0 +1,2 @@
+../configure --enable-shared --prefix=/root/enpower/llvm/llvm_37/install
+make REQUIRES_RTTI=1 && make install

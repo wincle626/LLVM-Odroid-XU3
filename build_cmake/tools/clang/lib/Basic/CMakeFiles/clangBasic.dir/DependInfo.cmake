@@ -1,0 +1,71 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_CXX
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Attributes.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Attributes.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Builtins.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Builtins.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/CharInfo.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/CharInfo.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Diagnostic.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Diagnostic.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/DiagnosticIDs.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/DiagnosticIDs.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/DiagnosticOptions.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/DiagnosticOptions.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/FileManager.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/FileManager.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/FileSystemStatCache.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/FileSystemStatCache.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/IdentifierTable.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/IdentifierTable.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/LangOptions.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/LangOptions.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Module.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Module.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/ObjCRuntime.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/ObjCRuntime.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/OpenMPKinds.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/OpenMPKinds.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/OperatorPrecedence.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/OperatorPrecedence.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/SanitizerBlacklist.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/SanitizerBlacklist.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Sanitizers.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Sanitizers.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/SourceLocation.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/SourceLocation.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/SourceManager.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/SourceManager.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/TargetInfo.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/TargetInfo.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Targets.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Targets.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/TokenKinds.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/TokenKinds.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Version.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Version.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/VersionTuple.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/VersionTuple.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/VirtualFileSystem.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/VirtualFileSystem.cpp.o"
+  "/root/enpower/llvm/llvm_37/tools/clang/lib/Basic/Warnings.cpp" "/root/enpower/llvm/llvm_37/build_cmake/tools/clang/lib/Basic/CMakeFiles/clangBasic.dir/Warnings.cpp.o"
+  )
+set(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+set(CMAKE_TARGET_DEFINITIONS
+  "CLANG_ENABLE_ARCMT"
+  "CLANG_ENABLE_OBJC_REWRITER"
+  "CLANG_ENABLE_STATIC_ANALYZER"
+  "_GNU_SOURCE"
+  "__STDC_CONSTANT_MACROS"
+  "__STDC_FORMAT_MACROS"
+  "__STDC_LIMIT_MACROS"
+  )
+
+# Pairs of files generated by the same build rule.
+set(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/root/enpower/llvm/llvm_37/build_cmake/lib/libclangBasic.so" "/root/enpower/llvm/llvm_37/build_cmake/lib/libclangBasic.so.3.7.1"
+  "/root/enpower/llvm/llvm_37/build_cmake/lib/libclangBasic.so.3.7" "/root/enpower/llvm/llvm_37/build_cmake/lib/libclangBasic.so.3.7.1"
+  )
+
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/root/enpower/llvm/llvm_37/build_cmake/lib/IR/CMakeFiles/LLVMCore.dir/DependInfo.cmake"
+  "/root/enpower/llvm/llvm_37/build_cmake/lib/MC/CMakeFiles/LLVMMC.dir/DependInfo.cmake"
+  "/root/enpower/llvm/llvm_37/build_cmake/lib/Support/CMakeFiles/LLVMSupport.dir/DependInfo.cmake"
+  )
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  "tools/clang/lib/Basic"
+  "../tools/clang/lib/Basic"
+  "../tools/clang/include"
+  "tools/clang/include"
+  "include"
+  "../include"
+  )
+set(CMAKE_CXX_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_Fortran_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})
+set(CMAKE_ASM_TARGET_INCLUDE_PATH ${CMAKE_C_TARGET_INCLUDE_PATH})

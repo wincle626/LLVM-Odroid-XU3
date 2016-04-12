@@ -1,0 +1,1 @@
+cmake -DLLVM_ENABLE_RTTI=true -DBUILD_SHARED_LIBS=true -DCMAKE_INSTALL_PREFIX=/root/enpower/llvm/llvm_37/install_cmake ../ 

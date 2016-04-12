@@ -1,0 +1,78 @@
+# Install script for directory: /root/enpower/llvm/llvm_37/tools
+
+# Set the install prefix
+if(NOT DEFINED CMAKE_INSTALL_PREFIX)
+  set(CMAKE_INSTALL_PREFIX "/root/enpower/llvm/llvm_37/install_cmake")
+endif()
+string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
+
+# Set the install configuration name.
+if(NOT DEFINED CMAKE_INSTALL_CONFIG_NAME)
+  if(BUILD_TYPE)
+    string(REGEX REPLACE "^[^A-Za-z0-9_]+" ""
+           CMAKE_INSTALL_CONFIG_NAME "${BUILD_TYPE}")
+  else()
+    set(CMAKE_INSTALL_CONFIG_NAME "")
+  endif()
+  message(STATUS "Install configuration: \"${CMAKE_INSTALL_CONFIG_NAME}\"")
+endif()
+
+# Set the component getting installed.
+if(NOT CMAKE_INSTALL_COMPONENT)
+  if(COMPONENT)
+    message(STATUS "Install component: \"${COMPONENT}\"")
+    set(CMAKE_INSTALL_COMPONENT "${COMPONENT}")
+  else()
+    set(CMAKE_INSTALL_COMPONENT)
+  endif()
+endif()
+
+# Install shared libraries without execute permission?
+if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
+  set(CMAKE_INSTALL_SO_NO_EXE "1")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for each subdirectory.
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-config/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/opt/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-as/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-dis/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-mc/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llc/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-ar/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-nm/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-size/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-cov/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-profdata/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-link/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/lli/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-extract/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-diff/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/macho-dump/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-objdump/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-readobj/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-rtdyld/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-dwarfdump/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/dsymutil/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-cxxdump/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/bugpoint/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/bugpoint-passes/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-bcanalyzer/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-stress/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-mcmarkup/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/verify-uselistorder/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-symbolizer/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-c-test/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/obj2yaml/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/yaml2obj/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-go/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-pdbdump/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/lto/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/llvm-lto/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/gold/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/clang/cmake_install.cmake")
+  include("/root/enpower/llvm/llvm_37/build_cmake/tools/msbuild/cmake_install.cmake")
+
+endif()
+
